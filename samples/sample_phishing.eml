@@ -1,0 +1,49 @@
+From: "PayPal Support" <service@paypa1-secure.top>
+To: victim@example.org
+Subject: URGENT: Your account will be suspended - verify your identity
+Reply-To: collect@mailbox-drop.ru
+Return-Path: <bounce@mailbox-drop.ru>
+Message-ID: <4f2a91@bulk-sender.xyz>
+Date: Thu, 22 Oct 2026 09:14:03 +0000
+Received: from mx.example.org (mx.example.org [10.0.0.5]) by
+ inbox.example.org; Thu, 22 Oct 2026 09:14:05 +0000
+Received: from smtp.bulk-sender.xyz (unknown [91.215.85.17]) by
+ mx.example.org; Thu, 22 Oct 2026 09:14:04 +0000
+Authentication-Results: mx.example.org; spf=fail
+ smtp.mailfrom=paypa1-secure.top; dkim=none; dmarc=fail
+ header.from=paypa1-secure.top
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8811815679921648262=="
+
+--===============8811815679921648262==
+Content-Type: multipart/alternative;
+ boundary="===============0875114200646648076=="
+
+--===============0875114200646648076==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account will be suspended. Verify at http://paypa1-secure.top/login with=
+in 24 hours.
+
+--===============0875114200646648076==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Dear customer, we noticed unusual activity. Action required wi=
+thin 24 hours.</p><p><a href=3D"http://paypa1-secure.top/login?id=3D881">http=
+s://www.paypal.com/verify</a></p><p><a href=3D"http://bit.ly/3fakeLink">Click=
+ here to restore access</a></p></body></html>
+
+--===============0875114200646648076==--
+
+--===============8811815679921648262==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+MIME-Version: 1.0
+
+TVotdGhpcy1pcy1ub3QtYS1yZWFsLXByb2dyYW0=
+
+--===============8811815679921648262==--

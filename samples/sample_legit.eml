@@ -1,0 +1,14 @@
+From: "Example Newsletter" <news@example.org>
+To: reader@example.net
+Subject: Your weekly digest
+Message-ID: <abc123@example.org>
+Date: Thu, 22 Oct 2026 07:00:00 +0000
+Received: from mail.example.org (mail.example.org [8.8.4.4]) by
+ mx.example.net; Thu, 22 Oct 2026 07:00:02 +0000
+Authentication-Results: mx.example.net; spf=pass smtp.mailfrom=example.org;
+ dkim=pass header.d=example.org; dmarc=pass header.from=example.org
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Here is your weekly digest. Read more at https://example.org/digest
